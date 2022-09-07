@@ -1,10 +1,5 @@
 # 基于springboot的博客管理系统
 
-## 获取方式
-
-下方扫一下，回复关键词：**博客5**，以获取源码
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205261246794.png)
 
 ## 1、项目介绍
 
@@ -92,9 +87,3 @@
 ### 4.4 设计文章目录
 
 ![文档目录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205252332274.jpg)
-
-## 5、获取方式
-
-下方扫一下，回复关键词：**博客5**，以获取源码
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205261246794.png)
